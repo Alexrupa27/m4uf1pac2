@@ -1,0 +1,49 @@
+#vid1 {
+  
+    border: 2px solid rgb(0, 0, 0);
+    width: 100%;
+    height: 50rem;
+}
+#tit1 {
+    border: 2px solid black;
+    background-color: aqua;
+    width: 100%;
+    border-radius: 7px;
+}
+h3{
+    border: 2px solid black;
+    background-color: white;
+    text-align: center;
+    border-radius: 7px;
+}
+
+#vid2{
+float: left ;
+border: 2px solid black;
+width: 47em;
+
+}
+#tit2{
+    border: 2px solid black;
+    background-color: aqua;
+    width: 50%;
+    float: left;
+    text-align: center;
+    border-radius: 7px;
+    border-style: dotted;
+}
+#vid3 {
+float:right;
+border: 2px solid black;
+width: 46em;
+}
+
+#tit3 {
+    border: 2px solid black;
+    background-color: aqua;
+    width: 49%;
+    float:right;
+    text-align: center;
+    border-radius: 7px;
+    border-style: dotted;
+}

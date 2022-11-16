@@ -1,0 +1,23 @@
+#Articleind {
+    position: static;
+}
+aside {
+    border: 2px solid rgb(0, 0, 0);
+    background-color: aliceblue;
+    border-radius: 7px;
+    padding: 10px;
+    width: 70rem;
+    height: 14rem;
+    float:right;
+
+}
+
+section img {
+
+    border: 2px solid black;
+    border-radius: 7px;
+    float:left;
+}
+
+
+

@@ -1,0 +1,15 @@
+article {
+    border: 2px solid black;
+    border-radius: 7px;
+    background-color: white;
+}
+#mapa {
+    border: 2px solid black;
+    width: 100%;
+}
+h3 {
+    border: 2px solid black;
+    border-radius: 7px;
+    background-color: rgb(187, 187, 246);
+    text-align: center;
+}
